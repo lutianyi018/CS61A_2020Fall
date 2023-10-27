@@ -1,3 +1,3 @@
-# CS61A_2020Fall
-CS61A-2020Fall notes
-2020的老师比较适合英语不太好的同学，而且课程作业之类的资源相比其他时间的多
+# CS61A_2023summer
+CS61A-2023Fall notes
+
